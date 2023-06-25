@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-pre-course-project-1",
+  "private_key_id": "5ce6e7fd624ca7416e083a6b6072012f5f3ff8bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBI08OjRdxOIIk\nJ7uZyDMjcOrEAICS/E4Lw6myeIcYuER506iU6xkbLEl9SnRAQhGSb6dyNlwq3BCV\nJmmpVzdf453/FY+O8alleE5jY90CfdjRBxomplC90UdrCr3OzVz8e52BT7pg6Hkq\nlslB8y+6/IsPxQ/tRvF5Tp0ItawdXJ4VMRLVEKc/Oz18Jyuui7f41rKCJ77haiyJ\n0j7vQv4Uy97qv1MSCKfOV6Z9GikHSOxjX10KsqoRLGaGrzNiNAi+lXgdVGybTc1h\n8/mNbSpTpIdxkkQ+jt2jj9M3zrM/gRK/PU/ZGL10uRWfh51cULJgyKkayMrzU0j7\nnqQQMZ/VAgMBAAECggEAFnEC2577TVWSkZ7oRnsjrgeNz857Ihkc/HL0wd8NW4r1\nse4tFXinxyeDNoKzNVA3+Hruyu+UEArYBmybNGkE7yhkkGIx9xsPYtHy0culv4dd\n7RPVLw5+LUAm+0IZQfFMz62RZJgeAOqiQZeZtQcL0b9MbT2plxl6L206A+wQHq0T\nbvgXbU4uKyuXkl4y6LIsluW7RU/6LLCO57tGmRDQGEXaS7FwnWyzygkS3NgKgDnt\nxoZznk10poIoApXbuSr1mqQ8KaWqxZxcoO6mxNkq0L2XKhxp13q/WDXbNtoEF28d\n2oxRmgBP28mjoMO/jPu/2T5FR8ljEd8ylaLFHV21dQKBgQD0HtLyvQiuWYVwBDhc\n8YzdubL0d7rvqw05lwX1hG1cIry48qOqX/G3PffpNuKZBucSMRYpng+OlL8sTGql\nzQCpAVl8kaU9QCKpqSCcEsCuKjgntmXBNSNq8lo6qvhOfXk0JX3nq2AAX2VcXj/G\nkf1nEf5bJLA25cncH1JgqWR8hwKBgQDKiVxlxTW+bI83zZlO3AWiPKQfkI1NMI5h\nggEFqnWUuxiCMr8ZQLgyh/DFLWBuI6qiiyn3DhFO7C3OhlDYyPucECQwD4oOiSc7\nWG8PO89+FMSw9kEwPVbp1diYOUoTFcQNeaMHR/rnPJwOKP7x5TWmHB/G8zdPVEsd\nsjJI+kFTwwKBgQDjk/jEIkX9g6dKDiUdQHI6Ieway6OR2ryxe4EqqRHqWtfk8w5w\nvpDwauy6lVgZoL25z9kBY0DNgw3Vlke12a9L3t41qvGIcEngMLMdzL2jn+hJ3Vhv\nDcK+6MAFAW4Kfh6H5ovBdZpBvq0XtyVtUJwTgkrFXSaJhx7v/qMlScVL8QKBgGfZ\nrurwB/KwL29pmKZ64tihR3Z35DwkHZ2Zz3RcRxYQKSz5YEtOiCRA2BACiGNxHlli\nCg6HxBA3wfUXofTGeV04WZXbIer6IIepfKjO/kGj3IbwfdSCX0JfSEQle/n1OyW9\nrP5axigzR8Fq++6EnNGjsheNNlsS2cFMUcRhrYWJAoGBAOIra0hASlmcAONM/iII\nJOIklxNDmyXRvBM8aZXxrnQvIL4ei8F3LMMK8dqS4IZBqsTKiV+c5Rh9CXKPDzlX\nHGfdlQpOy9jXk0B0u34xS89/6upaDblanYfzQD9fQnFjzyKk4OPiVrehT+Za639v\nRnH2aiMuKNGdM89BjnAxYI0n\n-----END PRIVATE KEY-----\n",
+  "client_email": "fetching-gradebook-data@my-pre-course-project-1.iam.gserviceaccount.com",
+  "client_id": "111189255855342737471",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fetching-gradebook-data%40my-pre-course-project-1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
